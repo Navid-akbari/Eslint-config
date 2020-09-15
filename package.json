@@ -1,0 +1,13 @@
+{
+    "name": "eslint-config-navid",
+    "version": "0.0.1",
+    "author": {
+      "name": "Navid Akbari"
+    },
+    "private": false,
+    "license": "MIT",
+    "main": "index.js",
+    "peerDependencies": {
+      "eslint": ">= 3"
+    }
+}
