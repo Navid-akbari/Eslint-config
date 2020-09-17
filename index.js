@@ -1,7 +1,7 @@
 module.exports = {
     "extends": [
       // Least Important
-      "./rules/vahidRules.js",
+      "./rules/rules.js",
       // Most Important
     ]
 }
