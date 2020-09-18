@@ -23,3 +23,5 @@ Alter your `eslint` command to include `ts` and `tsx` files:
 ```bash
 npx eslint --ext .js,.jsx,.ts,.tsx ./
 ```
+
+you can find the package in npm [here](https://www.npmjs.com/package/eslint-config-navid).
