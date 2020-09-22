@@ -1,12 +1,15 @@
 {
     "name": "eslint-config-navid",
-    "version": "0.0.5",
+    "version": "0.1.0",
     "author": {
       "name": "Navid Akbari"
     },
     "private": false,
     "license": "MIT",
-    "main": "index.js",
+    "files": [
+      "index.js",
+      "react.js"
+    ],
     "peerDependencies": {
       "prettier": "^2.1.2",
       "typescript": "^4.0.2"

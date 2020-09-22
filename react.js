@@ -1,7 +1,7 @@
 module.exports = {
     "extends": [
       // Least Important
-      "./rules/main.js",
+      "./rules/react.js",
       // Most Important
     ]
 }
